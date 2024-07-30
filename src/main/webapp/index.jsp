@@ -5,7 +5,8 @@
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
   
   <h2> Call Us : +1 817 903 0841 and 214 669 7785</h2> 
-  
+
+  <h3> Office: Grand Prairie, TX</h3>   
 
 </body>
 </html>
